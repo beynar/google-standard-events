@@ -1594,3 +1594,5 @@ declare namespace GOOGLE_STANDARDS_EVENTS {
 
   export type PARAMS<E extends EVENTS> = EVENTS_MAP[E];
 }
+
+export default GOOGLE_STANDARDS_EVENTS;
